@@ -1,4 +1,4 @@
-Hi 👋 My name is Austin
+Hi 👋 
 =======================
 
 ### Skills
