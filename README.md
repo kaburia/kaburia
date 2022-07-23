@@ -1,6 +1,6 @@
 
 <center>
- <img src="https://i.pinimg.com/originals/4a/7c/82/4a7c82f1225811fee292489f489c3770.gif" width="500" alt="cognitiveclass.ai logo"  />
+ <img src="https://i.pinimg.com/originals/4a/7c/82/4a7c82f1225811fee292489f489c3770.gif" width="300" alt="cognitiveclass.ai logo"  />
 </center>
 
 
