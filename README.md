@@ -1,8 +1,6 @@
-Hi 👋 
-=======================
 
 <center>
- <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CV0101EN-SkillsNetwork/images/cat_giphy.gif" width="300" alt="cognitiveclass.ai logo"  />
+ <img src="https://c.tenor.com/c4cx59tZFTkAAAAC/baymax-hello.gif" width="500" alt="cognitiveclass.ai logo"  />
 </center>
 
 
