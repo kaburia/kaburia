@@ -1,7 +1,7 @@
 
-<center>
- <img src="https://i.pinimg.com/originals/4a/7c/82/4a7c82f1225811fee292489f489c3770.gif" width="400" alt="cognitiveclass.ai logo"  />
-</center>
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/4a/7c/82/4a7c82f1225811fee292489f489c3770.gif" width="400">
+</div>
 
 ![](https://komarev.com/ghpvc/?username=kaburia&color=blueviolet)
 
