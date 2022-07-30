@@ -20,7 +20,7 @@
 [![wakatime](https://wakatime.com/badge/user/d8efe5ce-a3ec-4289-a8ca-1c7a380e062e.svg)](https://wakatime.com/@d8efe5ce-a3ec-4289-a8ca-1c7a380e062e)
 
 
-<b>My GitHub Stats</b>
+<h2 align="center">My GitHub Stats</h2>
 
 <table>
   <tr>
