@@ -17,7 +17,7 @@
 ## Socials
 <p align="left"> <a href="https://www.github.com/kaburia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/austin-kaburia-10559419b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+<!-- ### Badges -->
 
 [![wakatime](https://wakatime.com/badge/user/d8efe5ce-a3ec-4289-a8ca-1c7a380e062e.svg)](https://wakatime.com/@d8efe5ce-a3ec-4289-a8ca-1c7a380e062e)
 
